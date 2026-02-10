@@ -1,4 +1,5 @@
 # Symulacja problemu trzech ciał (N-body, N=3) + animacja MP4
+Autor: Mateusz Pandura
 To symulacja klasycznego "tree-body problem", czyli ruchu trzech ciał oddziałujących grawitacyjnie w 2D. Symulacja zapisuje animację trajektorii do pliku MP4.
 Symulacja wykorzystuje prosty schemat całkowania drugiego rzędu (wariant Verleta/ różnic centralnych) na podstawie pozycji `x,y` oraz „poprzednich” pozycji `x_prev, y_prev`.
 
